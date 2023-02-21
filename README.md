@@ -1,6 +1,8 @@
 # LessonApp
-iOS App that allows users to view iphone image capture lessons
 Built with MVVM, SwiftUI, UIKit and Combine
+
+iOS App that allows users to view iphone image capture lessons
+
 Includes Unit Tests and UITests
 
 Features include
